@@ -1,0 +1,18 @@
+{
+  "targets": {
+    "ring-of-fire-2d38a": {
+      "hosting": {
+        "ringoffire": [
+          "ring-of-fire-2d38a"
+        ]
+      }
+    },
+    "glotify-15f2f": {
+      "hosting": {
+        "ringoffire": [
+          "glotify-15f2f"
+        ]
+      }
+    }
+  }
+}

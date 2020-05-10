@@ -17,6 +17,12 @@ export class GameComponent implements OnInit {
 
   ngOnInit(): void {
     this.newGame();
+    // this.firestore
+    //   .collection('games')
+    //   .valueChanges()
+    //   .subscribe((update) => {
+    //     console.log('Game update:', update);
+    //   });
   }
 
   newGame() {
