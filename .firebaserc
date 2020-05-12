@@ -14,5 +14,8 @@
         ]
       }
     }
+  },
+  "projects": {
+    "default": "ring-of-fire-2d38a"
   }
 }
